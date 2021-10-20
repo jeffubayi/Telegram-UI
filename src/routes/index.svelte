@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Telegram  from '$lib/Telegram .svelte'
+  import Telegram  from '$lib/Timer.svelte'
 </script>
 
 <svelte:head>
